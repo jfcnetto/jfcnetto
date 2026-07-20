@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou João Neto
 
 🚀 **Product Owner Sênior | IA Generativa | Analista de Sistemas Sênior**  
-🇧🇷 Brasil
+Brasília - DF Brasil
 
 Profissional com mais de **20 anos** de experiência em Tecnologia da Informação, especializado em **Product Ownership**, Product Management e Business Analysis.
 
