@@ -46,6 +46,7 @@ Atualmente focado na vertical de **Inteligência Artificial** e Produtos Cogniti
 
 ## 📊 Estatísticas do GitHub
 
+Seu perfil do GitHub agora está integrado dinamicamente:
 
 ![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=jfcnetto&show_icons=true&theme=tokyonight)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jfcnetto&layout=compact&theme=tokyonight)
