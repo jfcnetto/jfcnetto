@@ -63,7 +63,7 @@ Atualmente focado na vertical de **Inteligência Artificial** e Produtos Cogniti
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfcnetto&layout=compact&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats
+---
 
 
 ⭐ Se você gosta do meu trabalho, considere deixar uma estrela nos repositórios.  
