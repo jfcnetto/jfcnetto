@@ -1,11 +1,14 @@
 # Olá 👋, Eu sou João Neto
 
-🚀 **Engenheiro de Software Sênior | Especialista em JavaScript e .NET**  
+🚀 **PRODUCT OWNER SÊNIOR | IA GENERATIVA | ANALISTA DE SISTEMAS SÊNIOR**  
 🇧🇷 Brasil
 
-Eu desenvolvo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**. Sou profundamente focado em **arquitetura de software, otimização de performance, código limpo (Clean Code) e soluções direcionadas ao valor de negócio**.
-
-Também crio conteúdos e compartilho conhecimento sobre **desenvolvimento de software, SaaS e empreendedorismo tecnológico**.
+Profissional com mais de **20 anos** de experiência em Tecnologia da Informação, especializado em **Product Ownership**, Product Management e Business Analysis.  
+ 
+Histórico consolidado na condução de squads multidisciplinares com Scrum e Kanban, conduzindo Product Discovery, priorização de **Product Backlog** e definição de Product Roadmap alinhados à Product Strategy e às necessidades de stakeholders. 
+Atuação em ambientes de alta complexidade nos **setores financeiro**, governo e saúde, conectando visão de negócio, Customer Experience e execução técnica para maximizar Business Value e o atingimento de KPIs e OKRs, com base em Data-Driven Decision Making. 
+ 
+Atualmente focado na vertical de **Inteligência Artificial** e Produtos Cognitivos, atuando na ponte entre áreas de negócio e engenharia para o levantamento de requisitos, **arquitetura de prompts**, estratégias de desrisco técnico e validação de soluções baseadas em **LLMs e sistemas RAG.**
 
 ---
 
@@ -25,13 +28,9 @@ Também crio conteúdos e compartilho conhecimento sobre **desenvolvimento de so
 ## 🧠 O que eu faço
 
 - 🏗️ **Plataformas SaaS** & Sistemas de alta escala
-- ⚡ **Otimização de performance** e gargalos de processamento
 - 🧩 **Arquitetura Limpa** (Clean Architecture) & Design de Sistemas
-- 🔐 **APIs robustas e seguras** & Protocolos de autenticação
-- 💳 **Gateways de pagamento**, assinaturas e regras de negócio complexas
 - 🤖 **Automações de processos** & Integrações de APIs de terceiros
 - 📊 **Dashboards interativos** & Engenharia de dados e métricas
-- 🎓 **Ensino, mentoria** e liderança técnica de desenvolvedores
 
 ---
 
@@ -48,8 +47,6 @@ Também crio conteúdos e compartilho conhecimento sobre **desenvolvimento de so
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
@@ -64,19 +61,11 @@ Também crio conteúdos e compartilho conhecimento sobre **desenvolvimento de so
 
 ## 📊 Estatísticas do GitHub
 
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jfcnetto&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfcnetto&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jfcnetto&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfcnettoa&layout=compact&theme=tokyonight" />
 </p>
-
 ---
-
-## 🚀 Filosofia de Trabalho
-
-> _"Código não serve apenas para resolver problemas técnicos no console.  
-> Serve para construir soluções robustas que escalam, duram e geram valor real ao negócio."_
-
----
-
 ⭐ Se você gosta do meu trabalho, considere deixar uma estrela nos repositórios.  
 🤝 Sempre aberto a colaborações, parcerias comerciais e novas ideias.
