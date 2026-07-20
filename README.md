@@ -46,11 +46,12 @@ Atualmente focado na vertical de **Inteligência Artificial** e Produtos Cogniti
 
 ## 📊 Estatísticas do GitHub
 
-Seu perfil do GitHub agora está integrado dinamicamente:
+## 📊 GitHub Stats
 
-![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=jfcnetto&show_icons=true&theme=tokyonight)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jfcnetto&layout=compact&theme=tokyonight)
-
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ⭐ Se você gosta do meu trabalho, considere deixar uma estrela nos repositórios.  
