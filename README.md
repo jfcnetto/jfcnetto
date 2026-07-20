@@ -14,7 +14,7 @@ Atualmente focado na vertical de **Inteligência Artificial** e Produtos Cogniti
 
 ## 🌐 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-jfcnetto-181717?style=for-the-badge&logo=github)](https://github.com/jfcnetto)
+[![GitHub](https://img.shields.io/badge/GitHub-jfcnetto-181717?style=for-the-badge&logo=github)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João--Neto-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-neto-05949737/)
 
 ---
